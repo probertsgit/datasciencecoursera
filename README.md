@@ -1,4 +1,0 @@
-datasciencecoursera
-===================
-
-Coursea class repo
